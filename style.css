@@ -1,0 +1,183 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+h5{
+    display: inline; 
+    
+   
+        
+}
+h6{
+    display: inline;
+    
+}
+h6:hover{
+    background-color: blue;
+}
+button.home{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+    
+}
+button.sportsbusniess{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+    
+}
+button.ipl2020{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.iplface2face{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.football{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.wwe{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.tennis{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.wrestling{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.othersports{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.moneyball{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 20px; 
+    padding-top: 20px;
+}
+button.search{
+    border: none;
+    background-color: white;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 430px; 
+}
+.navigator{
+    display: inline-block;
+    border: white;
+    border-style: hidden;
+    box-sizing: border-box;
+}
+.ad1{
+    margin-left: 200px;
+    float: left;
+    
+}    
+.ad2{
+    margin-right:200px;
+    float: right;
+    
+}
+.midbanner{
+    margin-top: 30px;
+    margin-left: 360px;
+    margin-right: 360px;
+    padding-top: 60px;
+}
+.ipl1{
+    margin-left:333px;
+}
+.uacadmy{
+    padding-left: 500px;
+}
+
+.footerlogo{
+    padding-top: 100px;
+    margin-left: 100px;
+  
+}
+img.ftlogo{
+   
+}
+h1{
+    display: inline;
+}
+p{
+    display: inline-block;
+    text-align: center;
+}
+.footerabout{
+    margin-left: 500px;
+    margin-right: 800px;
+    margin-top: -100px;
+}
+.footercontact{
+    margin-left: 1200px;
+    margin-right: 10px;
+    padding-bottom: 200px;
+    margin-top: -200px;
+    
+}
+@viewport{
+    zoom: 1;
+    width: extend-to-zoom;
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1;
+}
+-moz-any-link:focus {
+    outline: none;
+  }
